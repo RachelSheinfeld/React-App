@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "name": "SARA",
+      "email": "dana@gmail.com",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Noa",
+      "email": "noa@gmail.com",
+      "grade": 95
+    },
+    {
+      "id": "4",
+      "name": "Yossi",
+      "email": "yossi@gmail.com",
+      "grade": 72
+    },
+    {
+      "id": "5",
+      "name": "Rina",
+      "email": "rina@gmail.com",
+      "grade": 88
+    },
+    {
+      "id": "6",
+      "name": "David",
+      "email": "david@gmail.com",
+      "grade": 67
+    },
+    {
+      "id": "7",
+      "name": "Shira",
+      "email": "shira@gmail.com",
+      "grade": 100
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
